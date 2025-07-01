@@ -24,57 +24,47 @@
 <h3>Мои проекты</h3>
 
 <table>
+<tr>
+    <td>
+      <b>🛒 Products App</b><br>
+      <a href="https://products-app-tan-delta.vercel.app" target="_blank">Live Demo</a> | 
+      <a href="https://github.com/Ekaterina1418/products-app" target="_blank">GitHub</a><br><br>
+      <p><b>Магазин/каталог товаров с поиском, сортировкой и фильтрами.</b></p>
+      <i>Стек: Vue 3, TypeScript, Pinia, PrimeVue, Docker</i>
+    </td>
+  </tr>
+  <tr>
   <tr>
     <td><b>📝 Todo List</b><br>
-      <a href="https://todo-list-vue-mu-three.vercel.app/" target="_blank">Live Demo</a><br>
-      <sub>Список задач на Vue.</sub><br>
-      <b>Стек:</b> Vue 3, TypeScript, Pinia
-      <br>
-      <br>
-      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2342b883" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-      <img alt="Pinia" src="https://img.shields.io/badge/Pinia-ffd859?logo=pinia&logoColor=white"/>
+      <a href="https://todo-list-vue-mu-three.vercel.app/" target="_blank">Live Demo</a> |
+        <a href="https://github.com/Ekaterina1418/TodoList-vue" target="_blank">GitHub</a><br><br>
+      <p><b>Список задач на Vue.</b></p>
+      <i>Стек : Vue 3, TypeScript, Pinia</i>
     </td>
   </tr>
   <tr>
     <td><b>📊 Table Database</b><br>
-      <a href="https://table-database.vercel.app/" target="_blank">Live Demo</a><br>
-      <sub>Таблица с возможностью добавления, редактирования и удаления строк.</sub><br>
-      <b>Клиент:</b> Vue 3, Pinia <br>
-      <b>Сервер:</b> Node.js, Express, MongoDB (Mongoose)
-      <br>
-      <br>
-      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2342b883" />
-      <img alt="Pinia" src="https://img.shields.io/badge/Pinia-ffd859?logo=pinia&logoColor=white"/>
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-      <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-      <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=white" />
+      <a href="https://table-database.vercel.app/" target="_blank">Live Demo</a> |
+       <a href="https://github.com/Ekaterina1418/table-database" target="_blank">GitHub</a><br><br>
+      <p><b>Таблица с возможностью добавления, редактирования и удаления строк.</b></p>
+      <b>Клиент: </b><i>Vue 3, Pinia</i><br>
+      <b>Сервер: </b><i>Node.js, Express, MongoDB (Mongoose)</i>
     </td>
   </tr>
   <tr>
     <td><b>🔍 Table with Search & Sort</b><br>
-      <a href="https://vue-table-govb1ryxe-ekaterina1418s-projects.vercel.app/" target="_blank">Live Demo</a><br>
-      <sub>Таблица с сортировкой и поиском по названию.</sub>
-      <br>
-      <br>
-      <b>Стек:</b> Vue 3, Vuex<br>
-      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2342b883" />
-      <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?logo=vuex&logoColor=white"/>
+      <a href="https://vue-table-govb1ryxe-ekaterina1418s-projects.vercel.app/" target="_blank">Live Demo</a> |
+        <a href="https://github.com/Ekaterina1418/vue-table" target="_blank">GitHub</a><br><br>
+      <p><b>Таблица с сортировкой и поиском по названию.</b></p>
+      <b>Стек:</b><i> Vue 3, Vuex</i><br>
     </td>
   </tr>
   <tr>
     <td><b>🔍 🍔 Космическая бургерная</b><br>
-      <a href="https://ekaterina1418.github.io/react-burger" target="_blank">Live Demo</a><br>
-      <sub>Виртуальная бургерная</sub>
-      <br>
-      <b>Стек: </b>React, Redux, React Router и TypeScript
-      <br>
-      <br>
-     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-     <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <a href="https://ekaterina1418.github.io/react-burger" target="_blank">Live Demo</a> |
+       <a href="https://github.com/Ekaterina1418/react-burger" target="_blank">GitHub</a><br><br>
+      <p><b>Виртуальная бургерная</b></p>
+      <b>Стек: </b><i>React, Redux, React Router и TypeScript</i>
     </td>
   </tr>
 </table>
