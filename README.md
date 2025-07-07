@@ -25,6 +25,17 @@
 
 <table>
 <tr>
+<td>
+  <b>🔑 Account Creator</b><br>
+  <a href="https://account-manager-ten.vercel.app/" target="_blank">Live Demo</a> | 
+  <a href="https://github.com/Ekaterina1418/account-manager" target="_blank">GitHub</a><br><br>
+  <p>
+    <b>Веб-приложение для создания и управления аккаунтами.</b><br>
+    Форма включает: Метка, Тип записи, Логин, Пароль. <br>
+    Возможности: создать, редактировать, удалить аккаунт.
+  </p>
+  <i>Стек: Vue 3, TypeScript, Pinia, PrimeVue (frontend); Express.js (backend)</i>
+</td>
     <td>
       <b>🛒 Products App</b><br>
       <a href="https://products-app-tan-delta.vercel.app" target="_blank">Live Demo</a> | 
