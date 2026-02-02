@@ -24,7 +24,14 @@
 <h3>Мои проекты</h3>
 
 <table>
-<tr>
+   <tr>
+    <td><b>Circular UI Components</b><br>
+      <a href="https://progress-bar-bay.vercel.app/" target="_blank">Live Demo</a> |
+       <a href="https://github.com/Ekaterina1418/progress-bar" target="_blank">GitHub</a><br><br>
+      <p><b>Демонстрационный проект с круговым прогресс-баром и диаграммой на Vue 3.</b></p>
+      <b>Стек: </b><i>Vue 3, TypeScript, PrimeVue, Chart.js,</i>
+    </td>
+  </tr>
 <td>
   <b>🔑 Account Creator</b><br>
   <a href="https://account-manager-ten.vercel.app/" target="_blank">Live Demo</a> | 
